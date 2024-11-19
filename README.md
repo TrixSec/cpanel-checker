@@ -44,7 +44,7 @@ https://secure.example.com:2083|admin|password123
 ### Running the Script
 To start the script, use:
 ```bash
-python cp.py --file cpanel.txt -o results.txt --threads 20
+python cpanel-checker.py --file cpanel.txt -o results.txt --threads 20
 ```
 
 - Replace `cpanel.txt` with your input file containing credentials.
